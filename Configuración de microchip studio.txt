@@ -1,0 +1,28 @@
+Configuración de microchip studio
+
+Dentro de este documento se ponen las rutas que se deben establecer
+dentro del "external tools" para poder programar el atmega328p 
+a la placa arduino, para esto dentro de la pestaña de tools dentro 
+de microchip studio se debe usar la opción ya antes mencionada como
+external tools, dentro de la misma se debe agregar una nueva 
+herramienta mediante "Add"
+El título de la herramienta puede ser cualquiera
+
+El "Command" debe ser algo parecido a lo siguiente:
+
+C:\Users\jcaza\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17\bin\avrdude.exe
+
+Los "Arguments" debe ser algo parecido a lo siguiente:
+
+ -C"C:\Users\jcaza\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17\etc\avrdude.conf" -v -V -patmega328p -carduino "-PCOM6" -b115200 -D "-Uflash:w:$(TargetDir)$(TargetName).hex:i"
+
+El "jcaza" debe ser cambiado por el usuario de cada uno que tenga
+en su computadoras además del "PCOM6" debe ser cambiado por el
+puerto en el que sea reconocido el arduino, de igual manera se
+puede crear una regla por cada puerto
+
+De igual manera se puede usar el programador AVRDUDESS y solo
+se tiene que cargar el archivo hexadecimal para esto que desde
+el mismo AVRDUDESS y buscar la carpeta con nuestro proyecto
+nos deja cargar el hexadecimal elaborado al compilar nuestro
+código en el microchip studio

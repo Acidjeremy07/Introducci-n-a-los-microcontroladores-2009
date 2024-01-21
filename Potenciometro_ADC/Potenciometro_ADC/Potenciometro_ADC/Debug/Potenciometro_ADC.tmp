@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>G:\Mi unidad\ESCOM\Microcontroladores\Ejercicios\Potenciometro_ADC\Potenciometro_ADC\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>G:\Mi unidad\ESCOM\Microcontroladores\Ejercicios\Potenciometro_ADC\Potenciometro_ADC\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>G:\Mi unidad\ESCOM\Microcontroladores\Ejercicios\Potenciometro_ADC\Potenciometro_ADC\Debug\Potenciometro_ADC.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Potenciometro_ADC.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Potenciometro_ADC.map</FILE>
+  <FILE>Potenciometro_ADC.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <loop><FILE>G:\Mi unidad\ESCOM\Microcontroladores\Ejercicios\Potenciometro_ADC\Potenciometro_ADC\main.asm</FILE><LINE>27</LINE></loop>
+  <espera><FILE>G:\Mi unidad\ESCOM\Microcontroladores\Ejercicios\Potenciometro_ADC\Potenciometro_ADC\main.asm</FILE><LINE>35</LINE></espera>
+  <delay30ms><FILE>G:\Mi unidad\ESCOM\Microcontroladores\Ejercicios\Potenciometro_ADC\Potenciometro_ADC\main.asm</FILE><LINE>49</LINE></delay30ms>
+  <lazo2><FILE>G:\Mi unidad\ESCOM\Microcontroladores\Ejercicios\Potenciometro_ADC\Potenciometro_ADC\main.asm</FILE><LINE>50</LINE></lazo2>
+  <lazo1><FILE>G:\Mi unidad\ESCOM\Microcontroladores\Ejercicios\Potenciometro_ADC\Potenciometro_ADC\main.asm</FILE><LINE>51</LINE></lazo1>
+ </LABELS>
+</ASSEMBLER_INFO>

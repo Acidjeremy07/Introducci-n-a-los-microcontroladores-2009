@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Practica8\Practica8\Practica8\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Practica8\Practica8\Practica8\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Practica8\Practica8\Practica8\Debug\Practica8.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Practica8.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Practica8.map</FILE>
+  <FILE>Practica8.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Practica8\Practica8\Practica8\main.asm</FILE><LINE>21</LINE></reset>
+  <recibe><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Practica8\Practica8\Practica8\main.asm</FILE><LINE>81</LINE></recibe>
+  <delay_100ms><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Practica8\Practica8\Practica8\main.asm</FILE><LINE>158</LINE></delay_100ms>
+  <delay_10ms><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Practica8\Practica8\Practica8\main.asm</FILE><LINE>143</LINE></delay_10ms>
+  <clear><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Practica8\Practica8\Practica8\main.asm</FILE><LINE>101</LINE></clear>
+  <main><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Practica8\Practica8\Practica8\main.asm</FILE><LINE>79</LINE></main>
+  <aux><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Practica8\Practica8\Practica8\main.asm</FILE><LINE>86</LINE></aux>
+  <bajar><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Practica8\Practica8\Practica8\main.asm</FILE><LINE>114</LINE></bajar>
+  <aux2><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Practica8\Practica8\Practica8\main.asm</FILE><LINE>89</LINE></aux2>
+  <letra><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Practica8\Practica8\Practica8\main.asm</FILE><LINE>126</LINE></letra>
+  <lazo2><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Practica8\Practica8\Practica8\main.asm</FILE><LINE>144</LINE></lazo2>
+  <lazo1><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Practica8\Practica8\Practica8\main.asm</FILE><LINE>145</LINE></lazo1>
+ </LABELS>
+</ASSEMBLER_INFO>

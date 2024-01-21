@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\Debug\LCD Marquesina.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LCD Marquesina.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LCD Marquesina.map</FILE>
+  <FILE>LCD Marquesina.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>34</LINE></reset>
+  <delay_ms><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>155</LINE></delay_ms>
+  <inilcd><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>121</LINE></inilcd>
+  <cargaram><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>110</LINE></cargaram>
+  <main><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>58</LINE></main>
+  <setcmd><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>138</LINE></setcmd>
+  <sacasig><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>67</LINE></sacasig>
+  <pruebaboton><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>97</LINE></pruebaboton>
+  <norec><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>83</LINE></norec>
+  <baja><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>102</LINE></baja>
+  <carga><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>107</LINE></carga>
+  <nombre><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>166</LINE></nombre>
+  <forsaca><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>115</LINE></forsaca>
+  <sendnible><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>144</LINE></sendnible>
+  <lazo1_ms><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>156</LINE></lazo1_ms>
+  <lazo2_ms><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\LCD Marquesina\LCD Marquesina\main.asm</FILE><LINE>157</LINE></lazo2_ms>
+ </LABELS>
+</ASSEMBLER_INFO>

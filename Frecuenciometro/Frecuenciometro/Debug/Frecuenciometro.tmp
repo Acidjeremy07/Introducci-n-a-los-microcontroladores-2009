@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Frecuenciometro\Frecuenciometro\Frecuenciometro\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Frecuenciometro\Frecuenciometro\Frecuenciometro\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Frecuenciometro\Frecuenciometro\Frecuenciometro\Debug\Frecuenciometro.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Frecuenciometro.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Frecuenciometro.map</FILE>
+  <FILE>Frecuenciometro.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Frecuenciometro\Frecuenciometro\Frecuenciometro\main.asm</FILE><LINE>30</LINE></reset>
+  <INT_0><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Frecuenciometro\Frecuenciometro\Frecuenciometro\main.asm</FILE><LINE>131</LINE></INT_0>
+  <Tmr1_ovf><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Frecuenciometro\Frecuenciometro\Frecuenciometro\main.asm</FILE><LINE>116</LINE></Tmr1_ovf>
+  <Tmr0_ovf><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Frecuenciometro\Frecuenciometro\Frecuenciometro\main.asm</FILE><LINE>90</LINE></Tmr0_ovf>
+  <inicializar><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Frecuenciometro\Frecuenciometro\Frecuenciometro\main.asm</FILE><LINE>75</LINE></inicializar>
+  <main><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Frecuenciometro\Frecuenciometro\Frecuenciometro\main.asm</FILE><LINE>71</LINE></main>
+  <Digitos><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Frecuenciometro\Frecuenciometro\Frecuenciometro\main.asm</FILE><LINE>152</LINE></Digitos>
+  <repite><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Frecuenciometro\Frecuenciometro\Frecuenciometro\main.asm</FILE><LINE>82</LINE></repite>
+  <DispUni><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Frecuenciometro\Frecuenciometro\Frecuenciometro\main.asm</FILE><LINE>105</LINE></DispUni>
+  <incTMR0><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Frecuenciometro\Frecuenciometro\Frecuenciometro\main.asm</FILE><LINE>111</LINE></incTMR0>
+  <fin><FILE>C:\Users\jcaza\OneDrive\Desktop\Diego Micros\Frecuenciometro\Frecuenciometro\Frecuenciometro\main.asm</FILE><LINE>147</LINE></fin>
+ </LABELS>
+</ASSEMBLER_INFO>
